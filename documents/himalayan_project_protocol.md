@@ -1,6 +1,6 @@
 # Development and Validation of a Prediction Model for Summit Success Among Climbers on Nepal Himalaya Expeditions: A Retrospective Study Protocol
 
-**Protocol version:** 6.0
+**Protocol version:** 1.0
 **Date:** 9 November 2026
 **Study type:** Retrospective prediction model study using registry data
 **Context:** Machine learning course project
