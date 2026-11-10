@@ -69,9 +69,9 @@ The registry is organised in three relational tables:
 
 | Level | Approximate records | Content |
 |------------------------|------------------------|------------------------|
-| Climber | 92,800 | Demographic characteristics, role, use of supplemental oxygen, outcome (summit, injury, death) and maximum altitude reached for each climber on each expedition |
-| Expedition | 11,700 | Peak, year, season, key dates (arrival at base camp, summit, end of expedition), team size, number of hired staff, number of deaths among members and hired staff, reason for ending the expedition, organising agency |
-| Peak | Several hundred | Height, climbing status, and year and nationality of the first ascent |
+| Climber | 94,999 | Demographic characteristics, role, use of supplemental oxygen, outcome (summit, injury, death) and maximum altitude reached for each climber on each expedition |
+| Expedition | 11,854 | Peak, year, season, key dates (arrival at base camp, summit, end of expedition), team size, number of hired staff, number of deaths among members and hired staff, reason for ending the expedition, organising agency |
+| Peak | 503 | Height, climbing status, and year and nationality of the first ascent |
 
 The tables are linked through expedition and peak identifiers. The exact number of records is reported after data extraction. Two analysis data sets are built:
 
