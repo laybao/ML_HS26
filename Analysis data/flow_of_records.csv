@@ -1,0 +1,15 @@
+"data","step","n_records","n_removed"
+"expeditions","All expedition records",11854,0
+"expeditions","Exact duplicate rows removed",11854,0
+"climbers","All climber records",94999,0
+"climbers","Exact duplicate rows removed",94999,0
+"expeditions","Linked to a peak record",11854,0
+"expeditions","Expedition year 1905-2025 (study population)",11854,0
+"climbers","Linked to an included expedition (study population)",94999,0
+"climbers","Obj 1-2: summit outcome recorded (analysis data)",94871,128
+"obj3","Expeditions in the study population",11854,0
+"obj3","Obj 3: at least one recorded member or hired staff",11820,34
+"obj4","Expeditions in the study population",11854,0
+"obj4","Obj 4: main summit reached",6671,5183
+"obj4","Obj 4: base camp and summit dates recorded",5557,1114
+"obj4","Obj 4: summit date not before base camp arrival",5557,0
